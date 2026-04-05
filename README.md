@@ -32,10 +32,6 @@ npm start
 
 > Note: The player UI will load, but music playback and emotion sync will not function as the backend server is no longer active.
 
-## Related
-
-- 🎵 **Emotify (Main Project)** — [github.com/anusthan12](https://github.com/anusthan12)
-
 ## Author
 
 <div align="center">
